@@ -1,0 +1,27 @@
+{
+  "name": [
+    "Sauce Labs Backpack",
+    "Sauce Labs Bolt T-Shirt",
+    "Sauce Labs Onesie",
+    "Sauce Labs Fleece Jacket",
+    "Sauce Labs Bike Light",
+    
+    "Test.allTheThings() T-Shirt (Red)"
+  ],
+  "currency": "$",
+  "price": [
+    "$29.99",
+    "$7.99",
+    "$15.99",
+    "$49.99",
+    "$9.99",
+    "$15.99"
+  ],
+  "quantity": "1",
+  "cart": ["sauce-labs-backpack",
+   "sauce-labs-bolt-t-shirt",
+   "sauce-labs-onesie", 
+   "sauce-labs-bike-light",
+   "sauce-labs-fleece-jacket",
+    "test.allthethings()-t-shirt-(red)"]
+}
